@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze sales performance, product
 
 ##  Dashboard Preview
 
-![Sales Dashboard](./sales%20dashboard.png)
+![Sales Dashboard](sales-dashboard.png)
 
 ##  Project Objective
 
