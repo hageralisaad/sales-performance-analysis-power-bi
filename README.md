@@ -6,6 +6,10 @@ An interactive Power BI dashboard designed to analyze sales performance, product
 
 ![Sales Dashboard](sales-dashboard.png)
 
+##  Insights Report
+
+![Insights Report](insights-report.png)
+
 ##  Project Objective
 
 The objective of this project is to analyze sales data and extract meaningful business insights related to:
