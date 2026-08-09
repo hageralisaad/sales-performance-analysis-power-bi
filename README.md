@@ -77,6 +77,6 @@ An interactive demo video is included in this repository to demonstrate the dash
 
 Hager Ali
 
-Aspiring Data Analyst
+Data Analyst
 
 Skills: Excel | SQL | Power BI | Python
